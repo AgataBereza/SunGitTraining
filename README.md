@@ -3,7 +3,10 @@ Github exercises
 
 Commands cheat sheet: https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
 Nice interactive course: https://learngitbranching.js.org/
+
 Documentation/tutorials: https://www.atlassian.com/git?utm_source=basic-git-commands&utm_medium=link&utm_campaign=git-microsite&_ga=2.184650217.1329793373.1558378568-304789774.1547398667
+
+git-scm for visual studio: https://git-scm.com/download/win
 
 
 1. Ustawić użytkownika i e-mail
